@@ -1,1 +1,4 @@
 Try new file to github
+
+git config --global user.name "willsHuang"
+git config --global user.email "willshuang@gmail.com"
