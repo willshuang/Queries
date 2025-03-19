@@ -1,0 +1,8 @@
+Try new file to github
+
+--出現 user.name user.email 時
+git config --global user.name "willsHuang"
+git config --global user.email "willshuang@gmail.com"
+
+--出現 add to remote 時
+git remote add q https://github.com/willshuang/Queries
